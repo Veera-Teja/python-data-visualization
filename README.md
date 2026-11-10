@@ -3,7 +3,6 @@
 ## Project Overview
 
 This project focuses on exploring and visualizing datasets using Python.
-
 The main objective is to represent data in graphical formats to understand patterns, trends and relationships within the dataset.
 
 ## Internship
